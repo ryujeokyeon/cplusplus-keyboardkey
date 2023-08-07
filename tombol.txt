@@ -1,0 +1,5 @@
+cout << "anda menekan tombol/karakter: " << (char)x << endl;
+    cout << "ASCII: " << x << endl;
+
+    x = _getch();
+    cout << "ASCII fix : " << x << endl;
